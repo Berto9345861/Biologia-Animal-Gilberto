@@ -1,0 +1,23 @@
+div:hover {
+  background-color: var(--bs-green);
+}
+
+#Ballena:hover {
+  filter: sepia(40);
+}
+
+#elefante:hover {
+  filter: sepia(40);
+}
+
+#leones:hover {
+  filter: sepia(40);
+}
+
+#oso:hover {
+  filter: sepia(40);
+}
+
+.footer-clean:hover {
+}
+
